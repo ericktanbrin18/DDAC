@@ -100,3 +100,4 @@ $cargo = $statement->fetchAll(PDO::FETCH_OBJ);
 <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
 </body>
 </html>
+
