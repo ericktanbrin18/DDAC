@@ -36,7 +36,7 @@
                 <li class="active"><a href="Shipment.php">Shipment</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="Maersk.php"><span class="glyphicon glyphicon-log-out"></span> Log Out</a></li>
+                <li><a href="index.php"><span class="glyphicon glyphicon-log-out"></span> Log Out</a></li>
             </ul>
         </div>
     </div>
